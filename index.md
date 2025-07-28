@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to reactiv.au
 ---
-#header
-This is some content
+This is a landing page for reactiv.au
