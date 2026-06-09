@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /studio/led-lab-a9x4
